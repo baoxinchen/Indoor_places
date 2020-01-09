@@ -1,0 +1,179 @@
+School
+|-Classroom /c/classroom 104 /l/lecture_room 245
+|-Kindergarten_Classroom /k/kindergarden_classroom 236
+|-Music_Room 
+|-Art_Room 
+|-Lecture_Hall 
+|-Office /o/office 286
+|-Meeting_Room /c/conference_room 114
+|-Lounge 
+|-Printing_Room 
+|-Lab 
+|-|-Computer_Lab /c/computer_room 112
+|-|-Chemistry_Lab /c/chemistry_lab 99
+|-|-Biology_Lab /b/biology_laboratory 63
+|-|-Physics_Lab /p/physics_laboratory 309
+|-Library /l/library/indoor 247
+|-Corridor /c/corridor 118
+|-Elevator /e/elevator/door 150 /e/elevator/interior 151 /e/elevator_lobby 152
+|-Escalator /e/escalator/indoor 157
+|-Cafeteria, Market_Place /c/cafeteria 84
+|-Washroom, Bathroom /b/bathroom 51
+|-Auditorium /a/auditorium 30
+|-Gymnasium /g/gymnasium/indoor 197
+|-|-Locker_Room /l/locker_room 257
+|-|-Indoor_Swimming_Pool /s/swimming_pool/indoor 381
+|-|-Basketball_Court /b/basketball_court/indoor 49
+|-|-Volleyball_Court /v/volleyball_court/indoor 415
+|-|-Badminton_Court /b/badminton_court/indoor 34
+|-|-Table_Tennis 
+|-|-Tennis_Court /t/tennis_court/indoor 389
+|-|-Indoor_playground 
+|-Dorm_Room /d/dorm_room 142
+|-Lobby, Hall /e/entrance_hall 156 /l/lobby 255
+end
+
+Shopping_Mall
+|-Stores
+|-|-Book_Store /b/bookstore 67
+|-|-Candy_Store /c/candy_store 89
+|-|-Electronics_store
+|-|-Video_games_store
+|-|-Video_Store /v/videostore 411
+|-|-Music_Store /m/music_store 277
+|-|-Hardware_Store /h/hardware_store 201
+|-|-Footwear_Store, Shoe_shop /s/shoe_shop 353
+|-|-Drug_Store, Pharmacy /d/drugstore 147 /p/pharmacy 307
+|-|-Toy_Store /t/toyshop 398
+|-|-Sport_Equipment_Store
+|-|-Clothing_Store /c/clothing_store 108
+|-|-Hat_Shop /h/hat_shop 202
+|-|-Florist_Store /f/florist_shop/indoor 172 /f/florist_shop/outdoor 173
+|-|-Jewelry_Store, Watches_Store /j/jewelry_shop 231
+|-|-Optician, Glasses_Store /o/optician 292
+|-|-Supermarket /s/supermarket 377
+|-|-Bakery /b/bakery/shop 36
+|-|-Salon /b/beauty_salon 57
+|-|-Pet_Shop /p/pet_shop 306
+|-|-Gift_Shop /g/gift_shop 190
+|-|-Food_court /f/food_court 174
+|-|-Bar /b/bar 44
+|-|-Restaurant /r/restaurant 337
+|-|-Coffee_shop /c/coffee_shop 111
+|-|-Tea_Shop /t/teashop 385
+|-|-Bank
+|-|-Department_Store /d/department_store 131
+|-Security_Room
+|-Welcome_Desk, Guest_Desk, Reception /r/reception 332
+|-Fountain /f/fountain 181
+|-Elevator /e/elevator/door 150 /e/elevator/interior 151 /e/elevator_lobby 152
+|-Escalator /e/escalator/indoor 157
+|-Washroom /b/bathroom 51
+|-Indoor_Parking /p/parking_garage/indoor 300
+|-Movie_Theater, Cinema /m/movie_theater/indoor 274 /t/theater/indoor_seats 391
+|-Concert_Hall
+|-Children's_World
+end
+
+Home
+|-Kitchen /k/kitchen 237
+|-Wet_Bar /w/wet_bar 425
+|-Living_Room /l/living_room 253
+|-Dining_Room /d/dining_room 139
+|-Bedroom /b/bedroom 59 /b/bedchamber 58 
+|-Closet /c/closet 107
+|-Play_Room, Game_Room /p/playroom 314
+|-Home_Theater /h/home_theater 207
+|-Home_Office /h/home_office 206
+|-Laundry_Room /l/laundromat 243
+|-Washroom, Bathroom /b/bathroom 51
+|-Garage /g/garage/indoor 184
+|-Staircase /s/staircase 372
+|-Balcony /b/balcony/interior 38
+end
+
+Condo_Buildings
+|-Indoor_Swimming_pool /s/swimming_pool/indoor 381
+|-Jacuzzi /j/jacuzzi/indoor 227
+|-Gymnasium /g/gymnasium/indoor 197
+|-Locker_Room /l/locker_room 257
+|-Sauna_Room /s/sauna 348
+|-Library /l/library/indoor 247
+|-Reception /r/reception 332
+|-Security_Room
+|-Media_Room
+|-Party_Room
+|-Washroom, Bathroom /b/bathroom 51
+|-Elevator /e/elevator/door 150 /e/elevator/interior 151 /e/elevator_lobby 152
+|-Corridor /c/corridor 118
+|-Lobby /l/lobby 255
+end
+
+Airport
+|-Washroom /b/bathroom 51
+|-Food_Court /f/food_court 174
+|-Restaurant /r/restaurant 337
+|-Waiting_Room /w/waiting_room 417
+|-VIP_Waiting_Room
+|-Info_Desk, Reception, Guest_Desk /r/reception 332
+|-Check-In_Desk 
+|-Elevator /e/elevator/door 150 /e/elevator/interior 151 /e/elevator_lobby 152
+|-Escalator /e/escalator/indoor 157
+end
+
+Public_Transit
+|-Washroom /b/bathroom 51
+|-Info_Desk, Reception, Guest_Desk /r/reception 332
+|-Security_Office
+|-Elevator /e/elevator/door 150 /e/elevator/interior 151 /e/elevator_lobby 152
+|-Escalator /e/escalator/indoor 157
+|-Restaurant /r/restaurant 337
+|-Food_Court /f/food_court 174
+|-Waiting_Room /w/waiting_room 417
+|-Subway /s/subway_station/platform 376
+|-Bus_Terminal, Bus_Station /b/bus_station/indoor 80
+|-Train_Station /t/train_station/platform 400
+|-******Ticket
+end
+
+Hospital
+|-Hospital_Room /h/hospital_room 209
+|-Elevator /e/elevator/door 150 /e/elevator/interior 151 /e/elevator_lobby 152
+|-Escalator /e/escalator/indoor 157
+|-Washroom  /b/bathroom 51
+|-Food_Court /f/food_court 174
+|-Info_Desk, Reception, Guest_Desk /r/reception 332
+|-Office /o/office 286
+|-Emergency_Room
+|-Waiting_Room /w/waiting_room 417
+|-Drug_Store /d/drugstore 147 /p/pharmacy 307
+|-Operating_Room /o/operating_room 291
+|-******* many other rooms
+end
+
+Hotel
+|-Hotel_Room /h/hotel_room 214
+|-|-Single
+|-|-Double
+|-|-King
+|-|-Closet
+|-|-Washroom, Bathroom
+|-Corridor /c/corridor 118
+|-Laundry_Room  /l/laundromat 243
+|-Washroom /b/bathroom 51
+|-Kitchen
+|-Restaurant /r/restaurant 337
+|-Bar /b/bar 44
+|-Cafe /c/coffee_shop 111
+|-Dining_Hall, Banquet_Hall /d/dining_hall 138 /b/banquet_hall 43
+|-Meeting_Room /c/conference_room 114
+|-Conference_Room /c/conference_room 114
+|-Info_Desk, Reception, Guest_Desk /r/reception 332
+|-Lobby /l/lobby 255
+|-Indoor_Swimming_Pool  /s/swimming_pool/indoor 381
+|-Gymnasium, Fitness /g/gymnasium/indoor 197
+|-Sauna_Room /s/sauna 348
+|-Elevator /e/elevator/door 150 /e/elevator/interior 151 /e/elevator_lobby 152
+|-Waiting_Room /w/waiting_room 417
+|-Indoor_Parking /p/parking_garage/indoor 300
+end
